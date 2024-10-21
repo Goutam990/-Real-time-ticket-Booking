@@ -1,1 +1,3 @@
-# -Real-time-ticket-Booking
+Real-time-ticket-Booking
+MovieBuzz is a real-time movie ticket booking platform that allows users to browse movies, view details, check available venues, and purchase tickets online. The platform offers a seamless user experience for selecting shows, choosing seats from a dynamic seating chart, completing payments, and receiving tickets via email. Additionally, users can view their booking history at any time.
+The frontend is built using React.js and Tailwind CSS to ensure a responsive and interactive user experience. Context API is used for state management, while Axios handles API requests for data fetching. Vite optimizes the development process, enabling fast refreshes and real-time updates during development.
